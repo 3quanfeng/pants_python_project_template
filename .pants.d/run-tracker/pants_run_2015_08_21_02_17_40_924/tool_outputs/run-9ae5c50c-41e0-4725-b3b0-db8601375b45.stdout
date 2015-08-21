@@ -1,6 +1,0 @@
-[1m============== test session starts ===============[0m
-platform linux2 -- Python 2.7.6 -- py-1.4.30 -- pytest-2.6.4
-plugins: timeout, cov
-[1mcollecting 0 items[0m[1mcollecting 0 items[0m[1mcollected 0 items 
-[0m
-[32m[1m================  in 0.00 seconds ================[0m
