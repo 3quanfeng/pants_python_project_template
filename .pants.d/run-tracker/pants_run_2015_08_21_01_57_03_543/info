@@ -1,0 +1,12 @@
+timestamp: 1440147423.54
+datetime: Friday Aug 21, 2015 01:57:03
+machine: localhost.localdomain
+user: root
+path: /root/pants_python_project_template
+id: pants_run_2015_08_21_01_57_03_543
+cmd_line: ./pants -q run src/python/myproject:myapp
+default_report: /root/pants_python_project_template/.pants.d/reports/pants_run_2015_08_21_01_57_03_543/html/build.html
+tag: 8f44fd9
+branch: master
+revision: 8f44fd91be730dd916cce42a8fd01760e7eeda5f
+outcome: SUCCESS

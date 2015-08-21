@@ -1,0 +1,8 @@
+timestamp: 1440149174.8
+datetime: Friday Aug 21, 2015 02:26:14
+machine: localhost.localdomain
+user: root
+path: /root/pants_python_project_template
+id: pants_run_2015_08_21_02_26_14_801
+cmd_line: ./pants repel run src/python/myproject:myapp
+default_report: /root/pants_python_project_template/.pants.d/reports/pants_run_2015_08_21_02_26_14_801/html/build.html

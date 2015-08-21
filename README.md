@@ -19,3 +19,16 @@ $ pants -q run src/python/myproject:myapp
 ```bash
 $ pants binary src/python/myproject:myapp
 ```
+
+## Test
+```
+PANTS_VERBOSE=1 pants test test/python/:testsum
+```
+
+## Interactive python REPL session
+```
+PANTS_VERBOSE=1 pants repl run src/python/myproject:myapp
+>>> import sum2
+>>> sum2.sum(2,2)
+4
+```

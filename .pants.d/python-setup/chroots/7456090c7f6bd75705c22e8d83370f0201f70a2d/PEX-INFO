@@ -1,0 +1,1 @@
+{"build_properties": {"platform": "linux-x86_64", "version": [2, 7, 6], "class": "CPython"}, "requirements": ["requests==2.7.0"], "distributions": {"requests-2.7.0-py2.py3-none-any.whl": "29d2c9ec33391aeb79f237ea5916c42d97b45a7b"}, "entry_point": "code:interact", "code_hash": "03c95d6d35547d87a8dddb98a2ac7013327ac197"}
